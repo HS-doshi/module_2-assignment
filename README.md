@@ -1,4 +1,3 @@
 # module_2-assignment
 Coursera Assignment
-index.html 
-& one css file include in their.
+Assignment Folder & one index.html file include & in thier Css folder also include in their.
